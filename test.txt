@@ -1,0 +1,5 @@
+age,jod,marital,education,balance
+30,unemployed,married,primary,1787
+33,services,married,secondary,4789
+35,management,single,tertiary,1350
+40,?,single,it,100000
